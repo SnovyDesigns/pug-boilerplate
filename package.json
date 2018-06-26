@@ -25,7 +25,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@fortawesome/fontawesome-pro": "^5.1.0-4",
     "autoprefixer": "^8.6.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
